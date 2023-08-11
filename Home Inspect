@@ -85,9 +85,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				clip: rect(1px, 1px, 1px, 1px);
 			}
 		</style>
-		<link rel="alternate" type="application/json+oembed" href="https://connectwithsachin.000webhostapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fconnectwithsachin.000webhostapp.com%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://connectwithsachin.000webhostapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fconnectwithsachin.000webhostapp.com%2F&#038;format=xml" />
-
+		
 	<style type="text/css">
 		
 		body {
