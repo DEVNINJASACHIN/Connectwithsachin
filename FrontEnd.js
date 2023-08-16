@@ -193,8 +193,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-image: url("https://connectwithsachin.000webhostapp.com/wp-content/themes/lt-resume-wordpress-theme-install-package-free/images/background.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
 </style>
-	
-				<meta name="theme-color" content="#0A0A0B">
+					<meta name="theme-color" content="#0A0A0B">
 			<link rel="icon" href="https://connectwithsachin.000webhostapp.com/wp-content/uploads/2023/06/cropped-logo-32x32.png" sizes="32x32" />
 <link rel="icon" href="https://connectwithsachin.000webhostapp.com/wp-content/uploads/2023/06/cropped-logo-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://connectwithsachin.000webhostapp.com/wp-content/uploads/2023/06/cropped-logo-180x180.png" />
