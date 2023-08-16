@@ -223,8 +223,6 @@ a:focus{outline:none;}
 
 .elementor-element-9dd5728 .elementor-icon-list-text a{color:#fff;}
 
-
-
 @media (max-width: 909px) {
 .custom-logo {max-width: 150px;}	
 }		</style>
@@ -239,6 +237,8 @@ a:focus{outline:none;}
 
 								</div>
 	</div>
+	
+	
 	<!-- End Top menu -->
 	
 	<header id="masthead" class="site-header" role="banner">
