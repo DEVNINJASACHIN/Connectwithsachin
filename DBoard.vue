@@ -26,16 +26,16 @@
 </template>
 
 <script>
-import { mapState } from 'vuex'; // Assuming Vuex is set up for state management
-import Chart from './Chart.vue'; // Your Chart component implementation
-
+import { mapState } from 'vuex'; 
+import Chart from './Chart.vue'; 
+  
 export default {
   components: {
     Chart
   },
   computed: {
     ...mapState({
-      theme: state => state.theme // Assuming you have a theme state in Vuex
+      theme: state => state.theme 
     }),
     cards() {
       return [
@@ -71,5 +71,5 @@ export default {
 
 
 <style scoped>
-/* You can add your styling here if needed */
+  
 </style>
