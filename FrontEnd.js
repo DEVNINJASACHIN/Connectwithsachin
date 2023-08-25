@@ -32,7 +32,6 @@ img.emoji {
 
 </style>
 
-	
 	<style id='classic-theme-styles-inline-css' type='text/css'>
 
 	/*! This file is auto-generated */
