@@ -16,7 +16,8 @@ public class CinemaTicketBooking extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-
+// class Overrdider
+    
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("Online Cinema Ticket Booking");
