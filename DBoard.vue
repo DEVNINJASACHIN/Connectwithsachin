@@ -73,6 +73,8 @@ export default {
 
 
 // Style scoped
+
+
 <style scoped>
   
 </style>
