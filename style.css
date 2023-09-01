@@ -115,3 +115,19 @@
 		}
 
 	</style>
+
+<style>
+.waviy{text-align:center;}
+.waviy span {
+  display: inline-block;
+  font-size: 55px;
+  color: rgb(75, 255, 165);
+  font-weight:600;
+  text-transform: uppercase;
+  animation: flip 3s infinite;
+  font-family:inherit;
+  animation-delay: calc(.3s * var(--i))
+}
+</style>
+
+>
