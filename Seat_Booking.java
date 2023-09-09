@@ -73,6 +73,7 @@ public class CinemaTicketBooking extends Application {
         return numTicketsField;
     }
 
+    
     private ChoiceBox<String> createPaymentMethodChoiceBox() {
         ChoiceBox<String> paymentMethodChoiceBox = new ChoiceBox<>();
         paymentMethodChoiceBox.getItems().addAll("Credit Card", "Debit Card", "Net Banking");
