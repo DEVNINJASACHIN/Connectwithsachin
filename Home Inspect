@@ -175,7 +175,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			background-color: #0a0a0b;
 		}
 
-
 		.site-footer,
 		.site-footer p {
 			color: ;
