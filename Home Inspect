@@ -246,8 +246,6 @@ a:focus{outline:none;}
 	
 	<header id="masthead" class="site-header" role="banner">
 
-
-
 			<div class="site-header-main">
 				<div class="site-branding">
 					<a href="https://connectwithsachin.000webhostapp.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="500" height="182" src="https://connectwithsachin.000webhostapp.com/wp-content/uploads/2023/06/logo.png" class="custom-logo" alt="Connect With Sachin" decoding="async" fetchpriority="high" srcset="https://connectwithsachin.000webhostapp.com/wp-content/uploads/2023/06/logo.png 500w, https://connectwithsachin.000webhostapp.com/wp-content/uploads/2023/06/logo-300x109.png 300w" sizes="(max-width: 500px) 85vw, 500px" /></a>
